@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+.formulario {
+    padding: 50px;
+    width: 100%;
+    height: 350px;
+    border: 1px solid #000000;
+    background-color: blueviolet;
+    border-radius: 25%;
+    border-color: #000000;
+   
+}
+body{
+  background-color:chartreuse
+  
+}
+form{
+ 
+  margin: auto; 
+  width: 45%;
+  
+}
+
+form input {
+    padding: 10px;
+    margin: 10px 0;
+    
+}
+
+input{
+  width: 80%;
+}
+
+.classCard{
+
+  padding: 3%;
+  margin: auto; 
+  width: 30%;
+  text-align: justify;
+  display: inline-block;
+}
+ 
